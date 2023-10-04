@@ -1,0 +1,9 @@
+{
+	"name": "adfgithhubdev01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2510e8a4-94cb-4d95-86dd-b9fcdd60e429",
+		"tenantId": "d1a68e00-7b6d-4c3f-99da-1d09e4df93a8"
+	}
+}
